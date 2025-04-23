@@ -102,7 +102,7 @@
 </p>
 
 <p align="center">
-  ![snake gif](https://github.com/sulowskikarol/sulowskikarol/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/sulowskikarol/sulowskikarol/blob/output/github-contribution-grid-snake.svg?raw=true" alt="GitHub Snake animation" />
 </p>
 
 ---
